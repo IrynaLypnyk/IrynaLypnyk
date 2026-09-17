@@ -1,4 +1,6 @@
-# Hi, I'm Iryna 🖐🏻
+<h1>
+  Hi, I'm Iryna <img src="./smile.gif" width="24" alt="smile emoji" />
+</h1>
 
 Frontend Engineer focused on React, TypeScript and thoughtful user experiences.
 
