@@ -1,7 +1,7 @@
-Glad you're here.
+Glad you're here
 
 <h1>
-  I'm Iryna Lypnyk. 
+  I'm Iryna Lypnyk 
 </h1>
 
 Frontend Engineer focused on React, TypeScript and thoughtful user experiences.
