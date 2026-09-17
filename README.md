@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Iryna 🖐🏻
 
-<!--
-**IrynaLypnyk/IrynaLypnyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer focused on React, TypeScript and thoughtful user experiences.
 
-Here are some ideas to get you started:
+I've spent 7+ years building production web applications — from complex product interfaces and real-time features to design systems and performance improvements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+→ Building full-stack projects for freelance clients with **Next.js, React 19, TypeScript, PostgreSQL & Prisma**  
+→ Exploring **AI-assisted development and AI-powered product features**  
+→ Contributing to **Women Coding Community**  
+→ Turning 7 years of commercial frontend experience into things I can finally show here :)
+
+### I enjoy
+
+Clean UI architecture · thoughtful UX · design systems · performance ·  
+taking a feature from an idea through to production
